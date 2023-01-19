@@ -33,3 +33,12 @@ Here are some insights for the visualizations, in order of the story:
 - The last two plots look at similar detail as before but the main takeaways still hold: ridership is highest during work commute time and with male subscribers.
 
 ## Summary
+The Citi Bike program can be successful in Des Moines by:
+1. Promoting subscriptions to increase long-term usage
+2. Marketing heavily to men in the region as they are the majority of users
+3. Balancing bike deployment and support staff to be available during workday commutes and weekend afternoons, aligning with demand patters
+4. Focusing on deploying bikes in areas with high population density or commercial real estate
+
+Two other visualizations that would help with this analysis:
+1. Plot the lines from start and end station locations (longitude and latitude) to see if there are primary pathways along which riders go.  This could help further balance where bikes are placed, storage racks are located, etc.
+2. Plot over the ridership concentrations populations by region or block to see if ridership does correlate with population.  Similarly, plot where major office buildings are located to again confirm the ridership density aligns with urban commuters since the heatmaps seem to suggest this is the case.
