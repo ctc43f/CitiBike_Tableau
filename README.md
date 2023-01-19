@@ -15,6 +15,6 @@ Here are some insights for the visualizations, in order of the story:
 - The heat map shows ridership is most concentrated during standard commute times during teh week and in the afternoon and early evening on weekends.  This can help determine when to staff up with support personnel to troubleshoot and accomodate riders.  This might also dictate when bikes can be pulled for servicing versus needing them to be deployed.
 - Because there might be both male and female built bikes, it is important to consider gender versus rides.  This also might impact marketing approach.  Overall duration is not much different between gender, but overall ridership is much higher with males than females, which means the mix of types of bikes deployed should be adjusted accordingly.
 - The percentage bar chart shows some slight variation between male and female ridership during time of day, which again may impact what bikes are deployed where and when.
-- 
+- The last two plots look at similar detail as before but the main takeaways still hold: ridership is highest during work commute time and with male subscribers.
 
 ## Summary
